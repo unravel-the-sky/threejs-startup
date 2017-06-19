@@ -23,6 +23,7 @@
     "three": "^0.85.2"
   },
   "dependencies": {
-    "require": "^2.4.20"
+    "require": "^2.4.20",
+    "three-line-2d": "^1.1.6"
   }
 }
